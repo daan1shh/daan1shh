@@ -20,7 +20,7 @@ I'm a master's student in **Economics and Finance at the University of Tübingen
 
 - Working on **quant finance, risk analytics and financial modelling**
 - Core member of the **BFS Society e.V.** Global Markets Research Team. Latest piece: *The Slow Erosion of Dollar Primacy?*
-- Looking for **working student / internship roles** in risk, quantitative finance or data analytics
+- Joining **DWS** as a **Risk Manager**
 - English (C1), German (B1, getting better), Hindi & Urdu (native)
 - Off the clock: self-taught guitar, Himalayan treks, poetry, short films
 
@@ -101,6 +101,7 @@ Group project backtesting MA crossover, RSI and Donchian signals on US sector ET
 
 | Role | Where & when |
 |---|---|
+| **Risk Manager** | DWS · upcoming |
 | **M.Sc. Economics & Finance** | Universität Tübingen · 2025 to present |
 | **Pricing Strategy Analyst** | Frowish, New Delhi · 2024 to 2025 · ~4% margin improvement |
 | **Business Analyst Intern** | Outlook Publishing, New Delhi · 2022 · forecasting & Power BI dashboards |
