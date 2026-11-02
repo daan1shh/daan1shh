@@ -69,17 +69,17 @@ Option pricing from scratch in Python with Greeks, volatility scenarios and Yaho
 <td width="50%" valign="top">
 
 #### ⏱️ [Continuous-Time-Derivative-Pricing](https://github.com/daan1shh/Continuous-Time-Derivative-Pricing)
-Coursework on pricing derivatives in continuous time.
+Structured products on Rheinmetall. Designs a capital-protected participation note, prices a traded DZ BANK bonus cap certificate with a CRR tree (Greeks, replicating portfolio), and runs a Monte Carlo portfolio insurance strategy with put overlay, stress tests and a VaR limit.
 
-`Stochastic Calculus` `Jupyter`
+`CRR Tree` `Monte Carlo` `Greeks` `Svensson Curve`
 
 </td>
 <td width="50%" valign="top">
 
 #### 💻 [Computational-Finance](https://github.com/daan1shh/Computational-Finance)
-Numerical methods for finance in Python.
+Group project backtesting MA crossover, RSI and Donchian signals on US sector ETFs. Parameters tuned on 2010 to 2019 by Sortino ratio, checked with the Deflated Sharpe Ratio, then tested out of sample on 2000 to 2009 and 2020 to 2025.
 
-`Python` `Monte Carlo` `Jupyter`
+`Backtesting` `Walk-forward` `Sortino` `Deflated Sharpe`
 
 </td>
 </tr>
